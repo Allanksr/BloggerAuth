@@ -16,11 +16,8 @@ create your OAuth client in google console
 ##### that's the scope will need `https://www.googleapis.com/auth/blogger`
 
 
-<img width="300px" src="https://github.com/Allanksr/BloggerAuth/blob/main/console_print.JPG"><img width="400px" src="https://github.com/Allanksr/BloggerAuth/blob/main/console_print.JPG">
-
-
-<img width="300px" src="https://github.com/Allanksr/BloggerAuth/blob/main/playground_config.JPG"><img width="400px" src="https://github.com/Allanksr/BloggerAuth/blob/main/playground_config.JPG">
-
+<img width="300px" src="https://github.com/Allanksr/BloggerAuth/blob/main/console_print.JPG">
+<img width="300px" src="https://github.com/Allanksr/BloggerAuth/blob/main/playground_config.JPG">
 
 #### 
 

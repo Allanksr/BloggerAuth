@@ -1,0 +1,33 @@
+{
+  "name": "blogger_auth",
+  "version": "1.0.0",
+  "description": "Blogger auth to make {POST} requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allan Ribas",
+  "license": "MTI",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allanksr/blogger_auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Allanksr/blogger_auth/issues"
+  },
+  "homepage": "https://github.com/Allanksr/blogger_auth#readme",
+  "keywords": [
+    "blogger",
+    "api",
+    "axios",
+    "googleapis",
+    "nodemon"
+  ],
+  "dependencies": {
+    "axios": "^0.27.2",
+    "googleapis": "^105.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

@@ -10,12 +10,12 @@
   "license": "MTI",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Allanksr/blogger_auth.git"
+    "url": "git+https://github.com/Allanksr/BloggerAuth.git"
   },
   "bugs": {
-    "url": "https://github.com/Allanksr/blogger_auth/issues"
+    "url": "https://github.com/Allanksr/BloggerAuth/issues"
   },
-  "homepage": "https://github.com/Allanksr/blogger_auth#readme",
+  "homepage": "https://github.com/Allanksr/BloggerAuth#readme",
   "keywords": [
     "blogger",
     "api",

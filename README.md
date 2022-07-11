@@ -40,7 +40,7 @@ var dataAuth = {
   postId: 'postId',
   replaceString: `last of last of last comment from api 11-07-2022` 
 }
-const auth = require("./blogger_auth")
+const auth = require("blogger_auth/blogger_auth")
  auth.send(dataAuth).then(resp =>{
   console.log('Post method resp: ', resp) 
 })

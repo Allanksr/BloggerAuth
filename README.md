@@ -7,6 +7,16 @@ A blogger oauthplayground
 
 # Installation
 
+#### Before install, you will must follow some steps...
+create your OAuth client in google console
+[console.cloud.google.com](https://console.cloud.google.com/apis/credentials)
+
+##### after create you OAuth client, you will use your clientId and clientSecret to create your refreshToken through [OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
+
+##### that's the scope will need `https://www.googleapis.com/auth/blogger`
+
+#### 
+
 #### `npm i blogger_auth --save`
 
 Then...
